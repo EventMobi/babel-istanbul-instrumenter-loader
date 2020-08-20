@@ -1,5 +1,5 @@
 {
-  "name": "babel-istanbul-instrumenter-loader",
+  "name": "@eventmobi/babel-istanbul-instrumenter-loader",
   "version": "1.1.0",
   "description": "babel stanbul instrumenter loader",
   "main": "index.js",

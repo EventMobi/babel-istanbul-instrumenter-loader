@@ -4,7 +4,7 @@ Fork from [deepsweet/istanbul-instrumenter-loader](https://github.com/deepsweet/
 ## Install
 
 ```
-$ npm install babel-istanbul-instrumenter-loader
+$ npm install @eventmobi/babel-istanbul-instrumenter-loader
 ```
 
 ## Usage
